@@ -1,0 +1,35 @@
+Python Programming Fundamentals
+
+Python is a high-level, interpreted programming language with dynamic semantics. Its high-level built-in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.
+
+Key Features of Python:
+1. Simple and Easy to Learn: Python has a simple syntax similar to the English language.
+2. Free and Open Source: Python is freely available and its source code is open-source.
+3. High-level Language: Python is a high-level language, which means you don't need to worry about complex tasks like memory management.
+4. Portable: Python code can run on various platforms without modification.
+5. Interpreted Language: Python code is executed line by line, making debugging easier.
+
+Data Types in Python:
+- Numbers: integers, floats, complex numbers
+- Strings: text data enclosed in quotes
+- Lists: ordered, mutable sequences
+- Tuples: ordered, immutable sequences  
+- Dictionaries: unordered key-value pairs
+- Sets: unordered collections of unique items
+
+Control Structures:
+Python provides several control structures including if-else statements, for loops, while loops, and exception handling with try-except blocks.
+
+Functions in Python:
+Functions are blocks of code that perform specific tasks. They help in code reusability and modularity. Functions are defined using the 'def' keyword.
+
+Object-Oriented Programming:
+Python supports object-oriented programming with classes and objects. This allows for better code organization and reusability.
+
+Libraries and Frameworks:
+Python has a vast ecosystem of libraries and frameworks including:
+- NumPy for numerical computing
+- Pandas for data analysis
+- Django and Flask for web development
+- TensorFlow and PyTorch for machine learning
+- Matplotlib for data visualization
