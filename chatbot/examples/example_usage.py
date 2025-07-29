@@ -9,7 +9,7 @@ import sys
 from pathlib import Path
 
 # Add the chatbot directory to the path
-chatbot_dir = Path(__file__).parent
+chatbot_dir = Path(__file__).parent.parent  # Go up to chatbot directory
 sys.path.append(str(chatbot_dir))
 
 from config.settings import ChatbotConfig
