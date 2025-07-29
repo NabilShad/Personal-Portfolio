@@ -1,0 +1,20 @@
+# Core dependencies for conversational document-aware chatbot
+sentence-transformers>=2.2.2
+chromadb>=0.4.15
+gradio>=4.0.0
+transformers>=4.35.0
+torch>=2.0.0
+
+# Document processing
+PyPDF2>=3.0.1
+python-docx>=0.8.11
+pypandoc>=1.11
+
+# Additional utilities
+numpy>=1.24.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Optional: For better LLM support
+openai>=1.0.0
+langchain>=0.0.350
